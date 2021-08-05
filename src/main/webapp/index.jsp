@@ -1,5 +1,5 @@
 <html>
 <body>
-<h3>Please print as its </h3>
+<h3>Guru Testing Sample App before testing </h3>
 </body>
 </html>
